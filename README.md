@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![VibeUsage](https://vibecafe.ai/@vibe_77a0b0/badge)](https://vibecafe.ai/@vibe_77a0b0)
+
 <!--
 **Fim98/Fim98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
